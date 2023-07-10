@@ -1,0 +1,32 @@
+.inputContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.inputBox {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+
+input:focus {
+    outline: none;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin: 5px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px black;
+}

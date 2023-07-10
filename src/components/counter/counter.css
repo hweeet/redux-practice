@@ -1,0 +1,30 @@
+.buttonsForNum {
+    text-align: center;
+}
+
+.numberBox {
+    display: flex;
+    justify-content: center;
+}
+
+.numberContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    height: 150px;
+    width: 150px;
+    /*background-color: silver;*/
+    box-shadow: 5px 5px 5px black;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+
+.buttonStyle {
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    margin: 5px;
+    box-shadow: 2px 2px 2px black;
+}
